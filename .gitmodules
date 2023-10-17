@@ -1,0 +1,6 @@
+[submodule "rahul_work/atom-array-agents"]
+	path = rahul_work/atom-array-agents
+	url = git@github.com:Rahul0506/atom-array-agents.git
+[submodule "rahul_work/gym-atom-array"]
+	path = rahul_work/gym-atom-array
+	url = git@github.com:Rahul0506/gym-atom-array.git
